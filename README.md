@@ -21,20 +21,20 @@ The app uses mock JSON data for profile and transactions located in the /src/moc
 
 ### loading screen
 
-![loading screen](./screenshots/SS4.png)
+(https://res.cloudinary.com/dcn2e7gon/image/upload/v1754933051/ss4_k0ufk5.png)
 
 ### login page
 
-![login_page](./screenshots/SS3.png)
+https://res.cloudinary.com/dcn2e7gon/image/upload/v1754933052/ss3_v03bv8.png
 
 ### Transactions Table with Sorting & Export
 
-![Transactions Table](./screenshots/SS2.png)
+https://res.cloudinary.com/dcn2e7gon/image/upload/v1754933051/ss2_vdjgdv.png
 
 
 ### logout button
 
-![logout_button](./screenshots/SS1.png)
+https://res.cloudinary.com/dcn2e7gon/image/upload/v1754933051/ss1_n6ktg7.png
 
 
 ARCHITECHURAL DECISIONS
