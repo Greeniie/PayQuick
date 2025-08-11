@@ -52,7 +52,7 @@ const Dashboard = () => {
         </button>
       </aside>
 
-      {/* Main content */}
+  
       <main className="flex-1 bg-white rounded-lg shadow p-5 sm:p-6 md:p-8 overflow-x-auto">
         <h2 className="text-xl sm:text-2xl font-semibold mb-4">Transactions</h2>
         {transactions.length === 0 ? (
