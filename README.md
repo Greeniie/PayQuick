@@ -25,16 +25,16 @@ The app uses mock JSON data for profile and transactions located in the /src/moc
 
 ### login page
 
-![login_page](./screenshots/ss3.png)
+![login_page](./screenshots/SS3.png)
 
 ### Transactions Table with Sorting & Export
 
-![Transactions Table](./screenshots/ss2.png)
+![Transactions Table](./screenshots/SS2.png)
 
 
 ### logout button
 
-![logout_button](./screenshots/ss1.png)
+![logout_button](./screenshots/SS1.png)
 
 
 ARCHITECHURAL DECISIONS
