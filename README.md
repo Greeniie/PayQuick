@@ -21,7 +21,7 @@ The app uses mock JSON data for profile and transactions located in the /src/moc
 
 ### loading screen
 
-![loading screen](./screenshots/ss4.png)
+![loading screen](./screenshots/SS4.png)
 
 ### login page
 
