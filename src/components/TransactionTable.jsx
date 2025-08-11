@@ -36,7 +36,6 @@ const TransactionsTable = ({ data }) => {
   };
 
   const navigate = useNavigate();
-  //should be memoized or stable
   const columns = useMemo(
     () => [
       {
